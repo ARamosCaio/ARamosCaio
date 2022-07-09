@@ -1,5 +1,5 @@
 <h1 align="left"> Hello There!</h1> 
-![hello-there-hi-there](https://user-images.githubusercontent.com/105233742/178090506-91609ed6-5826-438d-a278-70443e69375b.gif)
+<img src="https://c.tenor.com/6us3et_6HDoAAAAC/hello-there-hi-there.gif">
 
 
 I'm Caio Ramos, 22 and I'm a Dev Student.<br><br>
