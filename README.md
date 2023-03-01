@@ -3,7 +3,7 @@
 
 
 I'm Caio Ramos, 22 and I'm a Dev Student.<br><br>
-My Pronouns are He/him.<br><br>
+
 Take a look at what i'm working on and please contribute!<br><br>
 
 Currently I'm learning about:
