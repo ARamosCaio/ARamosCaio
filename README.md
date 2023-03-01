@@ -1,5 +1,4 @@
 <h1 align="left"> Hello There!</h1> 
-<img src="https://c.tenor.com/6us3et_6HDoAAAAC/hello-there-hi-there.gif">
 
 
 I'm Caio Ramos, 22 and I'm a Dev Student.<br><br>
