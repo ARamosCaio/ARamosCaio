@@ -7,7 +7,7 @@ Take a look at what i'm working on and please contribute!<br><br>
 
 Currently I'm learning about:
 
-<h2 align="center">
+<h2 align="left">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"  width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg"  width="40" height="40"/>
