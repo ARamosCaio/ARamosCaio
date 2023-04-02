@@ -26,4 +26,4 @@ Say hi!<br><br>
 <a href = "mailto:aramoscaio@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
           
         
-
+![Caio's github stats](https://github-readme-stats.vercel.app/api?username=ARamosCaio)
