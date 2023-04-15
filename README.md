@@ -1,7 +1,7 @@
 <h1 align="left"> Hello There!</h1> 
 
 
-I'm Caio Ramos, 23, Backend Developer.<br><br>
+I'm Caio Ramos, 23, Backend Developer focused on python.<br><br>
 
 Take a look at what i'm working on and please contribute!<br><br>
 
