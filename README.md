@@ -1,7 +1,7 @@
 <h1 align="left"> Hello There!</h1> 
 
 
-I'm Caio Ramos, 23, FullStack Developer focused on python an open to work! <br><br>
+I'm Caio Ramos, 23, FullStack Developer focused on python and javascript an open to work! <br><br>
 
 Take a look at what i'm working on and please contribute!<br><br>
 
